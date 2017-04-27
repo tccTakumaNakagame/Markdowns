@@ -30,7 +30,7 @@
 <http://www.viva-fortigate.com/archives/16819499.html>
 
 ## 4. VLANの設定
-`システム -> ネットワーク -> インターフェース`左上の`Create New`
+`システム -> ネットワーク -> インターフェース`左上の`Create New`  
 <http://www.viva-fortigate.com/archives/15907019.html>
 
 ## 5. ルーティングの設定
